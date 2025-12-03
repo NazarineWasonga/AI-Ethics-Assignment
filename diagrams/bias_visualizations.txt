@@ -1,0 +1,9 @@
+BIAS VISUALIZATION
+
+Race: Privileged (White) vs Unprivileged (Black)
+
+Disparate Impact: Ratio of favorable outcomes for unprivileged / privileged
+Equal Opportunity Difference: Difference in True Positive Rates
+
+[Privileged] --> Higher True Positive Rate
+[Unprivileged] --> Lower True Positive Rate
